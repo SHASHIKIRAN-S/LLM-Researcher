@@ -6,8 +6,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <div align="center">
-  <img src="docs/assistant-logo.png" alt="AI Research Assistant Logo" width="200"/>
-
   <h1>AI Research Assistant</h1>
   <p>Your intelligent companion for comprehensive research and information gathering</p>
 </div>
